@@ -1,4 +1,3 @@
-# About Me
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate fullstack developer!</h3>
 
@@ -10,8 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-sharma-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-sharma-dev/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaibhav-sharma-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-sharma-dev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/promithious-5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/promithious-5/" height="30" width="40" /></a>
+<a href="https://discord.gg/promithious_5_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="promithious_5_p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
